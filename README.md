@@ -1,2 +1,2 @@
-# CodeClause
-These are CodeClause projects
+# CodeClause Internship Projects
+
